@@ -1,0 +1,21 @@
+{
+  "style": {
+    "height_ratio": 0.125,
+    "layout": "reference-columns"
+  },
+  "website": {
+    "label": "访问官网"
+  },
+  "qr": {
+    "wecom": {
+      "label": "扫码添加企业微信"
+    },
+    "mini_program": {
+      "label": "扫码进入小程序"
+    },
+    "website": {
+      "enabled": true,
+      "label": "扫码访问有赞官网"
+    }
+  }
+}

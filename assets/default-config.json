@@ -1,0 +1,72 @@
+{
+  "brand": {
+    "name": "有赞",
+    "tagline": "做生意，找有赞",
+    "logo_image": "skill://assets/youzan-logo.png"
+  },
+  "metrics": [
+    {
+      "value": "55,833",
+      "label": "正在帮助的品牌",
+      "source": "https://www.youzan.com/",
+      "verified_on": "2026-10-22",
+      "status": "官网公开"
+    },
+    {
+      "value": "13年",
+      "label": "社交电商经验",
+      "source": "https://www.youzan.com/",
+      "verified_on": "2026-10-22",
+      "status": "官网公开"
+    },
+    {
+      "value": "超1,000亿",
+      "label": "每年帮助商家完成交易额",
+      "source": "https://www.youzan.com/",
+      "verified_on": "2026-10-22",
+      "status": "官网公开"
+    }
+  ],
+  "phone": {
+    "display": "0571-8685 7988",
+    "uri": "tel:0571-86857988",
+    "label": "咨询热线",
+    "source": "https://www.youzan.com/；2026-10-22 核验官网咨询电话，可替换"
+  },
+  "website": {
+    "label": "访问有赞官网",
+    "url": "https://www.youzan.com/",
+    "display": "www.youzan.com"
+  },
+  "qr": {
+    "wecom": {
+      "label": "添加企微",
+      "image": null,
+      "placeholder": "企微码待替换",
+      "link": null
+    },
+    "mini_program": {
+      "label": "体验小程序",
+      "image": null,
+      "placeholder": "小程序码待替换",
+      "link": null
+    },
+    "website": {
+      "enabled": true,
+      "label": "访问官网"
+    }
+  },
+  "style": {
+    "height_ratio": 0.125,
+    "height_pt": null,
+    "background": "#FFFFFF",
+    "accent": "#E60012",
+    "text": "#323233",
+    "muted": "#646566",
+    "line": "#EBEDF0",
+    "endorsement_decoration": "silver-laurel",
+    "font_path": null,
+    "font_bold_path": null
+  },
+  "output_suffix": "-branded"
+}

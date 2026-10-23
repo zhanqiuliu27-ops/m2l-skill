@@ -1,0 +1,51 @@
+{
+  "style": {
+    "height_ratio": 0.125,
+    "layout": "reference-sentence"
+  },
+  "website": {
+    "label": "访问官网"
+  },
+  "qr": {
+    "wecom": {
+      "label": "扫码添加企业微信"
+    },
+    "mini_program": {
+      "label": "扫码进入小程序"
+    },
+    "website": {
+      "enabled": true,
+      "label": "扫码访问有赞官网"
+    }
+  },
+  "statement_spans": [
+    {
+      "text": "有赞拥有",
+      "bold": false
+    },
+    {
+      "text": "13",
+      "bold": true
+    },
+    {
+      "text": "年社交电商经验，正在帮助",
+      "bold": false
+    },
+    {
+      "text": "55,833",
+      "bold": true
+    },
+    {
+      "text": "个品牌，\n每年助力商家完成超",
+      "bold": false
+    },
+    {
+      "text": "1,000",
+      "bold": true
+    },
+    {
+      "text": "亿交易额。",
+      "bold": false
+    }
+  ]
+}
